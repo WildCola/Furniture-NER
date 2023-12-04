@@ -1,2 +1,2 @@
 # Furniture-NER
-model extracts products from furniture stores. 
+NER based on bert-base-uncased used for detecting product names from furniture web stores
